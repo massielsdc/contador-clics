@@ -34,7 +34,9 @@ function App() {
           texto='Reiniciar'
           esBotonDeClic={false}
           manejarClic={reiniciarContador} />
-          </div>   
+          <p>Massiel Díaz. 2025©</p>   
+
+          </div>
     </div>
   );
 }

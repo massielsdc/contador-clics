@@ -38,3 +38,9 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+p {
+  font-family: "Playwrite IT Moderna", cursive;
+color: #ff65a0;
+font-size: 13px;
+}
